@@ -1,6 +1,7 @@
 {
 "x":true,
 "y":true,
+"i":true,
 "z":"https://woot.us.com/",
 "e1":"https://translate.google",
 "e2":"https://mail.google",
